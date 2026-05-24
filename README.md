@@ -67,7 +67,7 @@ What makes me different: I've independently built **4 end-to-end analytics proje
 ---
 
 ### 🎬 Netflix Content Strategy Dashboard — Power BI
-[![View Project](https://img.shields.io/badge/View%20Project-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/saifudeen/netflix-powerbi-dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/SaifuNoushad/Netflix-Dashboard-PowerBI.git)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
@@ -106,7 +106,7 @@ What makes me different: I've independently built **4 end-to-end analytics proje
 ---
 
 ### 🚀 Food Delivery Time Prediction — Python & Machine Learning
-[![View Project](https://img.shields.io/badge/View%20Project-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/saifudeen/food-delivery-prediction)
+[![View Project](https://img.shields.io/badge/View%20Project-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SaifuNoushad/Food-Delivery-Time-Prediction.git)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -131,7 +131,7 @@ Raw Data → EDA & Preprocessing → Feature Engineering
 ---
 
 ### 🎮 Global Video Game Sales Dashboard — Excel
-[![View Project](https://img.shields.io/badge/View%20Project-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/saifudeen/videogame-sales-excel-dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/SaifuNoushad/Video-Game-Sales-Dashboard-Microsoft-Excel.git)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Business Question:** Which genres, publishers, and platforms dominated global video game sales — and how did the market evolve?
