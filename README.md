@@ -86,7 +86,7 @@ What makes me different: I've independently built **4 end-to-end analytics proje
 ---
 
 ### 🏠 LA Airbnb Listings Market Dashboard — Tableau
-[![View Project](https://img.shields.io/badge/View%20Project-E97627?style=flat-square&logo=tableau&logoColor=white)](https://github.com/saifudeen/la-airbnb-tableau-dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-E97627?style=flat-square&logo=tableau&logoColor=white)](https://github.com/SaifuNoushad/LA-Airbnb-Listings-Dashboard-Tableau.git)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Business Question:** What actually drives pricing, reviews, and listing concentration across LA neighbourhoods?
